@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "eaf-spec",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["serve", "-l", "4201", "--no-clipboard", "."],
+      "port": 4201
+    }
+  ]
+}
